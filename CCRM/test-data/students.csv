@@ -1,0 +1,11 @@
+id,regNo,fullName,email,active,dateCreated
+S001,REG2024001,John Doe,john.doe@university.edu,true,2024-01-15
+S002,REG2024002,Jane Smith,jane.smith@university.edu,true,2024-01-15
+S003,REG2024003,Robert Johnson,robert.johnson@university.edu,true,2024-01-16
+S004,REG2024004,Emily Davis,emily.davis@university.edu,true,2024-01-16
+S005,REG2024005,Michael Wilson,michael.wilson@university.edu,true,2024-01-17
+S006,REG2024006,Sarah Brown,sarah.brown@university.edu,true,2024-01-17
+S007,REG2024007,David Miller,david.miller@university.edu,false,2024-01-18
+S008,REG2024008,Jennifer Taylor,jennifer.taylor@university.edu,true,2024-01-18
+S009,REG2024009,Christopher Anderson,chris.anderson@university.edu,true,2024-01-19
+S010,REG2024010,Amanda Thomas,amanda.thomas@university.edu,true,2024-01-19

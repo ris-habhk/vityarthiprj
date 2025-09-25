@@ -1,0 +1,16 @@
+code,title,credits,instructorId,semester,department,active
+CS-101,Introduction to Programming,3,I001,FALL,Computer Science,true
+CS-201,Data Structures and Algorithms,4,I001,SPRING,Computer Science,true
+CS-301,Database Systems,3,I001,FALL,Computer Science,true
+MTH-101,Calculus I,4,I002,FALL,Mathematics,true
+MTH-201,Linear Algebra,3,I002,SPRING,Mathematics,true
+MTH-301,Differential Equations,4,I002,FALL,Mathematics,true
+PHY-101,General Physics I,4,I003,FALL,Physics,true
+PHY-201,General Physics II,4,I003,SPRING,Physics,true
+PHY-301,Classical Mechanics,3,I003,FALL,Physics,true
+CHE-101,General Chemistry I,4,I004,FALL,Chemistry,true
+BIO-101,Introduction to Biology,3,I005,FALL,Biology,true
+ENG-101,Composition and Rhetoric,3,I006,FALL,English,true
+HIS-101,World History,3,I007,FALL,History,true
+ECON-101,Principles of Economics,3,I008,FALL,Economics,true
+ART-101,Introduction to Art,2,I009,FALL,Arts,true
